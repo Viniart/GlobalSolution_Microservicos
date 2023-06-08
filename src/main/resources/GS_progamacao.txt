@@ -1,0 +1,8 @@
+Fernando	rm86815
+Bernardo	rm87710
+Vinicio		rm88402
+
+O projeto foi feito com base nas tabelas de banco de dados
+do professor Alexandre Barcelos, nele nós exibimos as maiores
+culturas agricolas do Brasil, quanto é produzido de cada alimento
+, quanto é consumido e a quantidade desperdiçada de cada produto.
